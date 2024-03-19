@@ -20,6 +20,9 @@ import SPFss from "./work/SPF ss.jpg"
 import esstee from "./work/esstee.mp4"
 import rsf from "./work/rupasinghe.mp4"
 import reha from "./work/reha.mp4"
+import sunshine from "./work/sunshine.mp4"
+import spf2 from "./work/spf2.mp4"
+import stenco from "./work/stenco.mp4"
 
 
 export { 
@@ -41,5 +44,8 @@ export {
     SHvid,
     esstee,
     rsf,
-    reha
+    reha,
+    sunshine,
+    spf2,
+    stenco,
 };
