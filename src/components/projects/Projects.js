@@ -45,7 +45,7 @@ const Projects = () => {
             video={reha}
             title="REHA PVT ltd"
             title2="(Building Materials)"
-            category="Corporate Website (React)"
+            category="Corporate Website (Next JS)"
             title3="Website URL's &#10534;"
             website="https://rehasteel.com"
             website2="https://rehasteel.netlify.app"
@@ -55,7 +55,7 @@ const Projects = () => {
             video={stenco}
             title="Stenco International"
             title2="(Trading)"
-            category="Corporate Website (React)"
+            category="Corporate Website (Next JS)"
             title3="Website URL's &#10534;"
             website="https://nothostedyet.com"
             website2="https://stencoitc.netlify.app"
